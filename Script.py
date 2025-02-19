@@ -113,7 +113,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/moviestudio444">𝗦𝘁𝘂𝗱𝗶𝗼</a>」</b>"""
+    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/moviestudio444">Studio</a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
